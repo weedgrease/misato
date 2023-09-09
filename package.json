@@ -13,6 +13,7 @@
     "nanoid": "^4.0.1"
   },
   "ampt": {
-    "app": "ampt-api"
+    "app": "misato",
+    "org": "kevin540135"
   }
 }
